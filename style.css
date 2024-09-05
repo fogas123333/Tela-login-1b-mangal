@@ -10,7 +10,7 @@
 }
 .login{
     height: 100vh;
-    background: linear-gradient(135deg, #2676ef, #40a9f4);
+    /*background: linear-gradient(135deg, #2676ef, #40a9f4);*/
     display: flex;
     justify-content: center;
     align-items: center;
@@ -100,4 +100,7 @@ border: 1px solid #2676ef;
     color: #ffffff;
     padding: 8px;
     cursor: pointer;
+}
+body{
+    background: url('https://picsum.photos/1920/1080');
 }
